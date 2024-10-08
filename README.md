@@ -6,7 +6,7 @@ Rockwell Automation https://www.rockwellautomation.com/en-us.html
 
 The Lynde and Harry Bradley Foundation https://www.bradleyfdn.org/about/our-history
 
-# TITLE
+# Case Study: Rockwell Automation, Inc.
 
 ## Overview and Origin
 
