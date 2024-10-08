@@ -1,5 +1,5 @@
 ## AI Navigator
-Hi there! I am Rockwell Automation’s ## AI Navigator. What information are you looking for?
+Hi there! I am Rockwell Automation’s AI Navigator. What information are you looking for?
 
 
 ## **You**
@@ -60,7 +60,7 @@ where can i find some documents of Allen-Bradley foundation?
 
 ## AI Navigator
 ## AI Navigator
-## **You** can find documents related to Allen-Bradley products, including technical specifications, installation instructions, and user manuals, at the Rockwell Automation Literature Library. ## **You** can browse the documentation organized by product area and find the information you need. For many products, instruction sheets and drawings can be found in the Product Selection web site. ## **You** can type the catalog number including dashes in the Catalog Number field for a listing of various documents associated with that catalog number. If you are unable to find the product based on the catalog number, you can also use the Product Selection & Configuration Directory to configure the catalog number. This site also contains product profiles, technical data, and dimension sheets. If you are not able to locate the information on the Literature Library, we suggest searching the product search. Please note that some documents may require a login to access.
+You can find documents related to Allen-Bradley products, including technical specifications, installation instructions, and user manuals, at the Rockwell Automation Literature Library. ## **You** can browse the documentation organized by product area and find the information you need. For many products, instruction sheets and drawings can be found in the Product Selection web site. ## **You** can type the catalog number including dashes in the Catalog Number field for a listing of various documents associated with that catalog number. If you are unable to find the product based on the catalog number, you can also use the Product Selection & Configuration Directory to configure the catalog number. This site also contains product profiles, technical data, and dimension sheets. If you are not able to locate the information on the Literature Library, we suggest searching the product search. Please note that some documents may require a login to access.
 
 These links may be of interest:
 
