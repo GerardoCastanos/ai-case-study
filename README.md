@@ -1,12 +1,23 @@
+DRAFT
+
+#### Sources
+
+Rockwell Automation https://www.rockwellautomation.com/en-us.html
+
+The Lynde and Harry Bradley Foundation https://www.bradleyfdn.org/about/our-history
+
 # TITLE
 
 ## Overview and Origin
 
-* Name of company
+### **Name of company** 
+* Rockwell Automation, Inc.
 
-* When was the company incorporated?
+### **When was the company incorporated?**
+* 1903 as "The Allen-Bradley Company"
 
-* Who are the founders of the company?
+### **Who are the founders of the company?**
+* Lynde and Harry Bradley
 
 * How did the idea for the company (or project) come about?
 
