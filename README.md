@@ -6,6 +6,10 @@ Rockwell Automation https://www.rockwellautomation.com/en-us.html
 
 The Lynde and Harry Bradley Foundation https://www.bradleyfdn.org/about/our-history
 
+Plex MES https://www.rockwellautomation.com/en-us/products/software/factorytalk/operationsuite/mes/plex-mes.html
+
+Rockwell International https://en.wikipedia.org/wiki/Rockwell_International
+
 # Case Study: Rockwell Automation, Inc.
 
 ## Overview and Origin
@@ -17,7 +21,7 @@ The Lynde and Harry Bradley Foundation https://www.bradleyfdn.org/about/our-hist
 * 1903 as "The Allen-Bradley Company"
 
 ### **Who are the founders of the company?**
-* Lynde and Harry Bradley
+* Lynde Bradley and Dr. Stanton Allen.
 
 * How did the idea for the company (or project) come about?
 
