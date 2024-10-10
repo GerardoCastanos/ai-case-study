@@ -1,15 +1,5 @@
 DRAFT
 
-#### Sources
-
-Rockwell Automation https://www.rockwellautomation.com/en-us.html
-
-The Lynde and Harry Bradley Foundation https://www.bradleyfdn.org/about/our-history
-
-Plex MES https://www.rockwellautomation.com/en-us/products/software/factorytalk/operationsuite/mes/plex-mes.html
-
-Rockwell International https://en.wikipedia.org/wiki/Rockwell_International
-
 # Case Study: Rockwell Automation, Inc.
 
 ## Overview and Origin
@@ -62,3 +52,13 @@ Rockwell International https://en.wikipedia.org/wiki/Rockwell_International
 * What technologies would this additional product or service utilize?
 
 * Why are these technologies appropriate for your solution?
+
+#### Sources
+
+Rockwell Automation https://www.rockwellautomation.com/en-us.html
+
+The Lynde and Harry Bradley Foundation https://www.bradleyfdn.org/about/our-history
+
+Plex MES https://www.rockwellautomation.com/en-us/products/software/factorytalk/operationsuite/mes/plex-mes.html
+
+Rockwell International https://en.wikipedia.org/wiki/Rockwell_International
