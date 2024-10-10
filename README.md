@@ -19,7 +19,7 @@ DRAFT
 
 ### **How is the company funded? How much funding have they received?**
 
-PENDING
+*How is this defined?*
 
 ## Business Activities
 
@@ -27,28 +27,38 @@ PENDING
 * One of the problems that Rockwell is trying to solve is the waste in operational processes (i.e. Manufacturing and Maintenance)
 
 ### **Who is the company's intended customer? Is there any information about the market size of this set of customers?**
+* The intended costumer are Industrial Manufacturers.
+* *Is there a reliable source to verify this?*
 
 ### **What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)**
+* Vertical integration of their processes. Connectivity and ease of use.
 
 ### **Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)**
+PENDING
 
 ## **Landscape**
 
 ### **What field is the company in?**
+* *Is this as a company? Software, or the fields they supply? Automotive etc,*
 
 ### **What have been the major trends and innovations of this field over the last 5&ndash;10 years?**
+PENDING
 
 ### **What are the other major companies in this field?**
+PENDING
 
 #### **Results**
 
 ### **What has been the business impact of this company so far?**
+PENDING
 
 ### **What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?**
+* *What does this mean?*
 
 ### **How is your company performing relative to competitors in the same field?**
+* *Any reliable sources?*
 
-#### **Recommendations**
+## **Recommendations**
 
 ### **If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)**
 
@@ -77,3 +87,5 @@ Allen-Bradley PLC's https://control.com/technical-articles/allen-bradley-plcs-a-
 2024 guidance https://www.rockwellautomation.com/en-us/company/news/press-releases/Rockwell-Automation-Reports-Fourth-Quarter-and-Full-Year-2023-Results-Introduces-Fiscal-2024-Guidance.html
 
 Market Share https://csimarket.com/stocks/competitionSEG2.php?code=ROK
+
+Rockwell market cap https://companiesmarketcap.com/rockwell-automation/revenue/
