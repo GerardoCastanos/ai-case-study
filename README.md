@@ -21,7 +21,8 @@ DRAFT
 
 ## Business Activities
 
-* What specific problem is the company or project trying to solve?
+### **What specific problem is the company or project trying to solve?**
+* One of the problems that Rockwell is trying to solve is the waste in operational processes (i.e. Manufacturing and Maintenance)
 
 * Who is the company's intended customer? Is there any information about the market size of this set of customers?
 
@@ -64,3 +65,13 @@ The Lynde and Harry Bradley Foundation https://www.bradleyfdn.org/about/our-hist
 Plex MES https://www.rockwellautomation.com/en-us/products/software/factorytalk/operationsuite/mes/plex-mes.html
 
 Rockwell International https://en.wikipedia.org/wiki/Rockwell_International
+
+Rockwell Financials https://www.rockwellautomation.com/en-us/company/investor-relations/financial-overview.html
+
+History of Rockwell https://www.axcontrol.com/blog/2020/the-winding-history-of-rockwell-automation/17/07/
+
+Allen-Bradley PLC's https://control.com/technical-articles/allen-bradley-plcs-a-hardware-history/
+
+2024 guidance https://www.rockwellautomation.com/en-us/company/news/press-releases/Rockwell-Automation-Reports-Fourth-Quarter-and-Full-Year-2023-Results-Introduces-Fiscal-2024-Guidance.html
+
+Market Share https://csimarket.com/stocks/competitionSEG2.php?code=ROK
