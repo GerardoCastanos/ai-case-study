@@ -13,9 +13,11 @@ DRAFT
 ### **Who are the founders of the company?**
 * Lynde Bradley and Dr. Stanton Allen.
 
-* How did the idea for the company (or project) come about?
+### **How did the idea for the company (or project) come about?**
+* Allen-Bradley (Now Rockwell Automation) during the 1960's and 1970's was already known for having extensive experience in electronics, at the time they were broadly known as pioneers of the Programmable Logic Controllers (PLC's). The idea of automation evolved during the 1990's when Rockwell Automation started in the software business especially focused on the automation of manufacturing processes.
+* Rockwell Automation continued developing software and in the last decade the company started exploring AI as a mean to analyze data more quickly.
 
-* How is the company funded? How much funding have they received?
+### **How is the company funded? How much funding have they received?**
 
 ## Business Activities
 
