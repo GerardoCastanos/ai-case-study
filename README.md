@@ -1,91 +1,28 @@
-DRAFT
+# Module 1 Challenge
+A brief case study of Rockwell Automations and the use of AI.
+>[!Note]
+>The following README was reviewed using the following AI platforms:
+>
+>OpenAI. (2023). ChatGPT (October 2023 version) [Large language model]. OpenAI. https://chat.openai.com
+>
+>Grammarly. Grammarly Inc. https://www.grammarly.com
 
-# Case Study: Rockwell Automation, Inc.
+## Introduction
 
-## Overview and Origin
+Artificial Intelligence (AI) is becoming more popular due to its ability to analyze enormous amounts of data and help with complex tasks. 
 
-### **Name of company** 
-* Rockwell Automation, Inc.
+This importance has been recognized in academic circles, such as the Nobel committee, which recently awarded machine learning two prizes for its physics and chemistry advancements. However, not only in academic circles is AI becoming a breakthrough technology; in this global technological environment, only some industries will resist this trend.
 
-### **When was the company incorporated?**
-* 1903 as "The Allen-Bradley Company"
+One of these industries is manufacturing, commonly known for constantly pursuing new technological advantages in its continuous pursuit of efficiency and quality. 
 
-### **Who are the founders of the company?**
-* Lynde Bradley and Dr. Stanton Allen.
+In this field, a blog published by Microsoft in 2024 details that "the manufacturing sector is not just a prospect, it's an unfolding reality. 77% of surveyed firms with more than USD10 billion in annual revenue are already deploying AI use cases." (Parag Ladha, 2024). 
 
-### **How did the idea for the company (or project) come about?**
-* Allen-Bradley (Now Rockwell Automation) during the 1960's and 1970's was already known for having extensive experience in electronics, at the time they were broadly known as pioneers of the Programmable Logic Controllers (PLC's). The idea of automation evolved during the 1990's when Rockwell Automation started in the software business especially focused on the automation of manufacturing processes.
-* Rockwell Automation continued developing software and in the last decade the company started exploring AI as a mean to analyze data more quickly.
+This interest in AI gives a clear idea of the potential growth that AI will provide for the manufacturing industry.
 
-### **How is the company funded? How much funding have they received?**
+## Rockwell Automation
 
-*How is this defined?*
+Rockwell Automation is one of the companies that has been a key player in industrial automation and digital transformation for the manufacturing industry since its foundation in 1903 by Dr. Stanton Allen and Lynde Bradley under the name "The Allen-Bradley Company," with the invention of the compression rheostat, a device used to control the speed of electric motors better. 
+The company gained prominence in the 1960s for its pivotal role in popularizing Programmable Logic Controllers (PLCs). In 2001, Rockwell Automation became a separate entity after Rockwell International, which owned Allen-Bradley, demerged to diversify its business operations. 
+In 2023, Rockwell Automation announced a collaboration with Microsoft to develop "digital solutions for manufacturers." In a blog published in 2023, Rockwell and Microsoft detail their direction to "improve the efficiency of manufacturing processes through digital innovation" while focusing on bridging the gap between Informational Technology (IT) and Operational Technology (OT). (Kam VedBrat, 2023).
 
-## Business Activities
-
-### **What specific problem is the company or project trying to solve?**
-* One of the problems that Rockwell is trying to solve is the waste in operational processes (i.e. Manufacturing and Maintenance)
-
-### **Who is the company's intended customer? Is there any information about the market size of this set of customers?**
-* The intended costumer are Industrial Manufacturers.
-* *Is there a reliable source to verify this?*
-
-### **What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)**
-* Vertical integration of their processes. Connectivity and ease of use.
-
-### **Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)**
-PENDING
-
-## **Landscape**
-
-### **What field is the company in?**
-* *Is this as a company? Software, or the fields they supply? Automotive etc,*
-
-### **What have been the major trends and innovations of this field over the last 5&ndash;10 years?**
-PENDING
-
-### **What are the other major companies in this field?**
-PENDING
-
-#### **Results**
-
-### **What has been the business impact of this company so far?**
-PENDING
-
-### **What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?**
-* *What does this mean?*
-
-### **How is your company performing relative to competitors in the same field?**
-* *Any reliable sources?*
-
-## **Recommendations**
-
-* **If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)**
-
-* **Why do you think that offering this product or service would benefit the company?**
-
-* **What technologies would this additional product or service utilize?**
-
-* **Why are these technologies appropriate for your solution?**
-
-## **Sources**
-
-* Rockwell Automation https://www.rockwellautomation.com/en-us.html
-
-* The Lynde and Harry Bradley Foundation https://www.bradleyfdn.org/about/our-history
-
-* Plex MES https://www.rockwellautomation.com/en-us/products/software/factorytalk/operationsuite/mes/plex-mes.html
-
-* Rockwell International https://en.wikipedia.org/wiki/Rockwell_International
-
-* Rockwell Financials https://www.rockwellautomation.com/en-us/company/investor-relations/financial-overview.html
-
-* History of Rockwell https://www.axcontrol.com/blog/2020/the-winding-history-of-rockwell-automation/17/07/
-
-* Allen-Bradley PLC's https://control.com/technical-articles/allen-bradley-plcs-a-hardware-history/
-
-* 2024 guidance https://www.rockwellautomation.com/en-us/company/news/press-releases/Rockwell-Automation-Reports-Fourth-Quarter-and-Full-Year-2023-Results-Introduces-Fiscal-2024-Guidance.html
-
-* Market Share https://csimarket.com/stocks/competitionSEG2.php?code=ROK
-
-* Rockwell market cap https://companiesmarketcap.com/rockwell-automation/revenue/
+Rockwell Automation maintains a strong presence in the industrial automation sector, with an estimated revenue of $9.06 billion. However, it remains minor compared to major competitors like Honeywell International, which has an estimated revenue of $36.6 billion; Siemens AG, $81.8 billion; and Schneider Electric, $38.8 billion.
