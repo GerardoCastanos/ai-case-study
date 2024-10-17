@@ -1,11 +1,12 @@
 # Module 1 Challenge
 ## A brief case study of **Rockwell Automation** and the use of AI.
 >[!Note]
->The following README was reviewed using the following AI platforms:
+>
+>This README was reviewed and enhanced using the following AI platforms:
 >
 >> OpenAI. (2023). ChatGPT (October 2023 version) [Large language model]. OpenAI. https://chat.openai.com
->>
->> Grammarly. Grammarly Inc. https://www.grammarly.com
+>> 
+>> Grammarly Inc. (n.d.). Grammarly. https://www.grammarly.com
 
 ## Table of Contents
 
