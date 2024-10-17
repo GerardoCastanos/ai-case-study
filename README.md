@@ -8,7 +8,7 @@
 >> Grammarly. Grammarly Inc. https://www.grammarly.com
 
 ## Table of Contents
-1. [Paragraph](#paragraph)
+
 1. [Introduction](#Sect_1)
 2. [Rockwell Automation](#Sect_2)
 3. [AI in Manufacturing](#Sect_3)
@@ -30,7 +30,7 @@ In this field, a blog published by Microsoft in 2024 details that *"the manufact
 This interest in AI gives a clear idea of the potential growth that AI will provide for the manufacturing industry.
 
 <a name="Sect_2" />
-<a name="paragraph" />
+
 ## **Rockwell Automation**
 
 **Rockwell Automation** is one of the companies that has been a key player in industrial automation and digital transformation for the manufacturing industry since its foundation in 1903 by Dr. Stanton Allen and Lynde Bradley under the name *"The Allen-Bradley Company"* with the invention of the compression rheostat, a device used to control the speed of electric motors better.
